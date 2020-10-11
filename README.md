@@ -1,1 +1,1 @@
-Pokedex
+Pokedex api with simple react front end
