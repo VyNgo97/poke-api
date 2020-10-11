@@ -1,1 +1,1 @@
-Pokedex api with simple react front end
+Pokedex API with postgresql backend and react front end
